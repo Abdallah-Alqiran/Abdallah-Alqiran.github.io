@@ -69,6 +69,13 @@ You can check the project on [GitHub here](https://github.com/Abdallah-Alqiran/P
 
 ---
 
+## Résumé
+
+You can check or download my résumé through the following link:  
+[View my résumé on Google Drive](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx).
+
+---
+
 ## Contact Information
 - **Email**: [abdallahalqiran765@gmail.com](mailto:abdallahalqiran765@gmail.com)
 - **Phone and WhatsApp**: [+20 101 661 1062](tel:+201016611062) 
