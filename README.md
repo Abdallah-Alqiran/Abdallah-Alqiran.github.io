@@ -5,13 +5,10 @@
 ---
 
 ## About
-I am a Computer Science student passionate about technology, innovation, and mobile app development. Currently in my second year at university, I focus on enhancing my problem-solving skills and learning Android development, specifically using Kotlin.
-
-I am also currently working as a mentor at SVU University, where I guide students who are building their problem-solving skills. This role allows me to share my knowledge and help others grow in the field.
-
-Additionally, I have participated in the ECPC qualifications (Egyptian Collegiate Programming Contest) with my teammates, which helped us strengthen our collaborative and competitive programming skills.
-
-Beyond academics, I actively engage with the tech community, collaborating on projects and exchanging ideas, which further fuels my passion for software development and continuous learning.
+I'm a second-year Computer Science student passionate about mobile app development and technology. 
+Currently focusing on Android development with Kotlin, I also mentor at SVU University, helping students improve problem-solving skills. 
+I'm enrolled in the Mobile Development track at the Digital Egypt Pioneers Initiative (DEPI), where I expand my expertise in Android development, Kotlin, and Jetpack Compose. 
+Alongside academics, I work on personal projects and collaborate on our DEPI graduation project to continually refine my skills
 
 ---
 
