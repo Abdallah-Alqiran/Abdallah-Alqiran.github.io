@@ -5,9 +5,10 @@
 ---
 
 ## About
-I'm a second-year Computer Science student passionate about mobile app development and technology. 
-Currently focusing on Android development with Kotlin, I also mentor at SVU University, helping students improve problem-solving skills. 
-I'm enrolled in the Mobile Development track at the Digital Egypt Pioneers Initiative (DEPI), where I expand my expertise in Android development, Kotlin, and Jetpack Compose. 
+I'm a second-year **Computer Science student** passionate about mobile app development and technology. 
+
+Currently focusing on **Android development** with Kotlin, I also **mentor at SVU University**, helping students improve problem-solving skills. 
+I'm enrolled in the **Mobile Development** track at the Digital Egypt Pioneers Initiative (DEPI), where I expand my expertise in Android development, Kotlin, and Jetpack Compose. 
 Alongside academics, I work on personal projects and collaborate on our DEPI graduation project to continually refine my skills
 
 ---
