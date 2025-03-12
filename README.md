@@ -11,19 +11,20 @@ I possess a unique combination of technical skills in **Software Development** a
 ---
 
 ## About
-I'm a second-year **Computer Science student** passionate about mobile app development and technology. 
+I'm a **Computer Science student** passionate about mobile app development and technology. 
 
 Currently focusing on **Android development** with Kotlin, I also **mentor at SVU University**, helping students improve problem-solving skills. 
-I'm enrolled in the **Mobile Development** track at the Digital Egypt Pioneers Initiative (DEPI), where I expand my expertise in Android development, Kotlin, and Jetpack Compose. 
-Alongside academics, I work on personal projects and collaborate on our DEPI graduation project to continually refine my skills
+I'm enrolled in the **Mobile Development** track at the Digital Egypt Pioneers Initiative (DEPI), where I expand my expertise in Android development, Kotlin, and Jetpack Compose with knowledge about MVVM, Clean Architecture, Dependency Injection, Design Patterns.
+
+Alongside academics, I work on personal projects and collaborate on our DEPI graduation project to continually refine my skills.
 
 
 
 ---
 
 ## Education
-- **BSc in Computer Science**, South Valley University (2024-2027)
-- **Digital Egypt Pioneers (DEPI)**: Android Development Track & Soft Skills
+- **BSc in Computer Science**, South Valley University (Qena University) (2024-2027)
+- **Digital Egypt Pioneers (DEPI)**: Mobile Development Track & Soft Skills
 
 ---
 ## Experience
@@ -36,14 +37,28 @@ Alongside academics, I work on personal projects and collaborate on our DEPI gra
 
 
 ## Projects
-### 1. Places in Qena
-This Android application was developed as part of the DEPI initiative. It features a Sign In screen with input validation and a dynamic list of places in Qena. The project follows best practices for RecyclerView implementation for an enhanced user experience.
+### 1. GitHub Trend Explorer project
+This Android application was developed as part of the DEPI initiative. The project successfully created a platform to display popular GitHub repositories, showcasing essential details such as stars, forks, and topics. Throughout development, best practices for API integration and dynamic content rendering were implemented to ensure an optimized user experience.
+
+**Technologies Used**
+- Language: Kotlin
+- Tools: Android Studio, Jetpack Compose
+- Architecture: Clean Architecture, MVVM
+- Libraries & Patterns: Retrofit, Room, Design Patterns
+- Data Management: Data Sources, Domain Layer
+- Dependency Injection: Dagger Hilt
+- Concurrency: Coroutines, Flow
+- UI & UX: Material Design, Jetpack Compose Components
+- State Management: ViewModel, StateFlow
+
 
 <div style="text-align: center;">
-  <img src="assets/p1.png" width="220" height="400"/>
+  <img src="assets/G1.png" width="230" height="450"/>
+  <img src="assets/G2.png" width="230" height="450"/>
+  <img src="assets/G3.png" width="230" height="450"/>
 </div>
 
-You can check the project on [GitHub here](https://github.com/Abdallah-Alqiran/Places-in-Qena).
+You can check the project on [GitHub here](https://github.com/Abdallah-Alqiran/GitHub-Trend-Explorer-Project).
 
 
 ## Certificates
@@ -60,17 +75,17 @@ You can check the project on [GitHub here](https://github.com/Abdallah-Alqiran/P
 
 
 ---
+## Technical Skills:
+- Kotlin, Compose, XML.
+- OOP and Data Structure.
+- Clean Architecture, MVVM, Design Patterns and SOLIDs Principles.
+- Problem solving (1000+ problems on [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) & [LeetCode](https://leetcode.com/u/Abdallah_Alqiran)).
+- Retrofit, ROOM, Dagger Hilt.
+- Git and GitHub.
 
-
-## Skills
-- **Kotlin**: Developed small Android apps using Kotlin.
-- **C++, OOP, and Data Structure**: Created projects implementing core OOP principles and algorithms.
-- **Problem Solving**: Solved over 900 problems on [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and more than 30 problems on [LeetCode](https://leetcode.com/u/Abdallah_Alqiran).
-- **Communication and Teamwork**: Experienced in presenting technical concepts clearly to audiences. Collaborated effectively with teammates in the ECPC qualifications competition.
-- **Git and GitHub**: Good at version control and collaborating on GitHub repositories.
-- **Fast Typer**: Practiced typing on [MonkeyType](https://monkeytype.com/profile/Abdallah_Alqiran) and [TypeRacer](https://data.typeracer.com/pit/profile?user=abdallah_alqiran).
-
----
+## Soft Skills:
+- Communication
+- Teamwork
 
 
 ---
@@ -85,7 +100,7 @@ Feel free to reach out if you want to discuss ideas, share insights, or collabor
 ## Resume
 
 You can check or download my resume through the following link:  
-[View my résumé on Google Drive](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx).
+[View my resume on Google Drive](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx).
 
 ---
 
